@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  loan_number: MyString
+  state: MyString
+  contract_type: MyString
+  source: MyString
+
+two:
+  loan_number: MyString
+  state: MyString
+  contract_type: MyString
+  source: MyString
